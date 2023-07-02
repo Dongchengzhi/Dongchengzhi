@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Chengzhi.</h2>
 
-My 📧:dongchzh3@163.com
+My 📧: dongchzh3@163.com
 
 - [🔬PUBLICATIONS](#--publications)
   * [2022](#2022)
