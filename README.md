@@ -2,7 +2,7 @@
 
 My 📧: dongchzh3@163.com
 
-B.S., Sun Yat-sen University, Biotechnology (2019-2026)
+B.S., Sun Yat-sen University, Biotechnology (2019-2023)
 
 - [🔬PUBLICATIONS](#--publications)
   * [2023](#2023)
