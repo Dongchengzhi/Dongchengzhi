@@ -2,6 +2,8 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongchengzhi)
 
+- [🔬PUBLICATIONS](#--publications)
+
 # 🔬PUBLICATIONS
 
 Huang, Z., Xia, S., Mei, S., Wen, Y., Liu, J., Dong, C., Chen, W., Yu, P., Qu, L., Luo, Y., & Zheng, L. (2022). **Integrated Analysis Reveals the Characteristics and Effects of SARS-CoV-2 Maternal–Fetal Transmission.** Frontiers in Microbiology, 13.
